@@ -8,3 +8,6 @@ Automatically shows instantiated children during exported NodePath selection to 
 3. Enable the plugin in Godot at `Project -> Project Settings... -> Plugins -> ShowInstantiatedChildren (Enabled: On)`.
 
 Now when you click an option that opens the SceneTreeEditor, all nodes will be shown for selection.
+
+## Showcase
+![Instantiated children shown during node selection dialog](https://github.com/Mycodeko/godot_show_instantiated_children/blob/main/assets/icon.png?raw=true)
